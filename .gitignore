@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/admin/config.php
+*.log
+*.sql
+google-service-account.json
+.env

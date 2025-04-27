@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Главная -->
+  <url><loc>https://www.bergadiki.lv/index.php?lang=lv</loc></url>
+  <url><loc>https://www.bergadiki.lv/index.php?lang=en</loc></url>
+  <url><loc>https://www.bergadiki.lv/index.php?lang=ru</loc></url>
+
+  <!-- Dīķi -->
+  <url><loc>https://www.bergadiki.lv/diki.php?lang=lv</loc></url>
+  <url><loc>https://www.bergadiki.lv/diki.php?lang=en</loc></url>
+  <url><loc>https://www.bergadiki.lv/diki.php?lang=ru</loc></url>
+
+  <!-- Booking -->
+  <url><loc>https://www.bergadiki.lv/booking.php?lang=lv</loc></url>
+  <url><loc>https://www.bergadiki.lv/booking.php?lang=en</loc></url>
+  <url><loc>https://www.bergadiki.lv/booking.php?lang=ru</loc></url>
+
+  <!-- Privacy Policy -->
+  <url><loc>https://www.bergadiki.lv/privacy-policy.php?lang=lv</loc></url>
+  <url><loc>https://www.bergadiki.lv/privacy-policy.php?lang=en</loc></url>
+  <url><loc>https://www.bergadiki.lv/privacy-policy.php?lang=ru</loc></url>
+</urlset>

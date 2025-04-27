@@ -1,0 +1,247 @@
+[08-Apr-2025 05:04:59 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:04:59 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:04:59 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:04:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[08-Apr-2025 05:05:00 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:05:00 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:05:00 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[08-Apr-2025 05:05:04 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:05:04 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:05:04 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[08-Apr-2025 05:07:20 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:20 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:20 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[08-Apr-2025 05:07:22 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:22 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:22 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[08-Apr-2025 05:07:28 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:28 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:28 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[08-Apr-2025 05:07:50 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:50 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:50 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/yachtwor/berga.yachtworkshop.com/index.php on line 2
+[08-Apr-2025 05:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getDBConnection() in /home/yachtwor/berga.yachtworkshop.com/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/index.php on line 6
+[09-Apr-2025 20:23:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:23:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:23:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:23:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:23:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:31:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:32:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:32:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:32:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:32:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:32:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:32:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:33:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:35:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:36:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:36:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:36:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:36:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:36:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:37:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:37:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:37:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[09-Apr-2025 20:37:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'booking_date' in 'field list' in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php:12
+Stack trace:
+#0 /home/yachtwor/berga.yachtworkshop.com/get_bookings.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/get_bookings.php on line 12
+[10-Apr-2025 18:14:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[10-Apr-2025 18:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function booking_text() in /home/yachtwor/berga.yachtworkshop.com/booking.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/yachtwor/berga.yachtworkshop.com/booking.php on line 60
+[14-Apr-2025 04:45:05 UTC] PHP Fatal error:  Cannot redeclare t() (previously declared in /home/yachtwor/berga.yachtworkshop.com/save_booking.php:25) in /home/yachtwor/berga.yachtworkshop.com/save_booking.php on line 100
+[14-Apr-2025 05:02:40 UTC] PHP Fatal error:  Cannot redeclare t() (previously declared in /home/yachtwor/berga.yachtworkshop.com/save_booking.php:29) in /home/yachtwor/berga.yachtworkshop.com/save_booking.php on line 104
+[14-Apr-2025 05:08:10 UTC] PHP Fatal error:  Cannot redeclare t() (previously declared in /home/yachtwor/berga.yachtworkshop.com/save_booking.php:29) in /home/yachtwor/berga.yachtworkshop.com/save_booking.php on line 104
+[14-Apr-2025 05:11:51 UTC] PHP Fatal error:  Cannot redeclare t() (previously declared in /home/yachtwor/berga.yachtworkshop.com/save_booking.php:31) in /home/yachtwor/berga.yachtworkshop.com/save_booking.php on line 106
+[14-Apr-2025 05:19:43 UTC] PHP Fatal error:  Cannot redeclare t() (previously declared in /home/yachtwor/berga.yachtworkshop.com/save_booking.php:31) in /home/yachtwor/berga.yachtworkshop.com/save_booking.php on line 106
+[14-Apr-2025 05:19:45 UTC] PHP Fatal error:  Cannot redeclare t() (previously declared in /home/yachtwor/berga.yachtworkshop.com/save_booking.php:31) in /home/yachtwor/berga.yachtworkshop.com/save_booking.php on line 106

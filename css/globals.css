@@ -1,0 +1,86 @@
+/* ============================= */
+/* === Основные и глобальные === */
+/* ============================= */
+
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-Regular.woff2') format('woff2'),
+       url('../fonts/Roboto/Roboto-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-Bold.woff2') format('woff2'),
+       url('../fonts/Roboto/Roboto-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-Medium.woff2') format('woff2'),
+       url('../fonts/Roboto/Roboto-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-main);
+  font-weight: 700;
+}
+
+p, li, span {
+  font-family: var(--font-main);
+  font-weight: 400;
+}
+
+:root {
+    --color-primary: #201C1B;
+    --color-background: #EFF0EB;
+    --color-text: #333;
+    --color-white: #fff;
+    --color-hover: #2E7758;
+    --color-shadow: 0 2px 5px rgba(46, 119, 88, 0.3);
+    --color-accent: #00aaff;
+    --color-dark: #111111;
+    --color-danger: #d13832;
+
+    --header-height: 150px;
+    --nav-height: 70px;
+    --footer-height: 150px;
+    --logo-height: 40px;
+    --section-max-width: 1000px;
+    --section-padding: 60px;
+    
+    --btn-border-radius: 6px;
+    
+    --font-main: 'Roboto', sans-serif;
+    
+    /* === Параметры шрифтов === */
+    --font-size-header: 36px;
+    --font-size-nav: 18px;
+    --font-size-footer: 14px;
+    --font-size-content: 16px;
+}

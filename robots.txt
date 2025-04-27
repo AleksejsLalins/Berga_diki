@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /logs/
+Disallow: /js/old/
+Disallow: /phpinfo.php
+Disallow: /.user.ini
+Disallow: /.htaccess
+Disallow: /logs/php_errors.log
+Disallow: /logs/error_log
+Disallow: /vendor/
+Disallow: /backup/
+
+Allow: /js/
+Allow: /css/
+Allow: /images/
+Allow: /fonts/
+Allow: /site.webmanifest
+
+Sitemap: https://www.bergadiki.lv/sitemap.xml

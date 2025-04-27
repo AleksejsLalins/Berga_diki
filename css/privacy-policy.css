@@ -1,0 +1,22 @@
+ body {
+    font-family: var(--font-main);
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+ nav {
+    margin-bottom: 20px;
+}
+ nav a {
+    margin-right: 15px;
+    font-weight: 700;
+    color: var(--color-primary, #2e7758);
+    text-decoration: underline;
+}
+ .policy-content {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}

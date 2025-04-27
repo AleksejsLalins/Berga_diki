@@ -1,0 +1,22 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+# Устанавливаем UTF-8 для всех входящих и исходящих данных
+AddDefaultCharset UTF-8
+php_value mbstring.language Neutral
+php_value mbstring.internal_encoding UTF-8
+php_value mbstring.http_input UTF-8
+php_value mbstring.http_output UTF-8
+php_flag mbstring.encoding_translation On
+
+<FilesMatch "\.(css)$">
+  FileETag None
+  <IfModule mod_headers.c>
+    Header unset ETag
+    Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+  </IfModule>
+</FilesMatch>

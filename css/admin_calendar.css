@@ -1,0 +1,212 @@
+@import url('globals.css');
+
+/* ========================= */
+/* 📆 Календарь и кнопки секторов */
+.sector-buttons {
+  margin-bottom: 12px;
+}
+
+.sector-btn {
+  margin: 0 5px 10px 0;
+  padding: 6px 12px;
+  background: #114b5f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sector-btn.selected-sector {
+  background: #0c2e41;
+}
+
+/* 🗓️ Таблица календаря */
+.calendar-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.calendar-table td,
+.calendar-table th {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+  cursor: pointer; /* ✅ курсор "палец" на всех ячейках */
+}
+
+/* 🎨 Заливка ячеек по статусу бронирования */
+.calendar-table td.booked {
+  background-color: #f8d7da;
+}
+
+.calendar-table td.half-am {
+  background: linear-gradient(to bottom, #f8d7da 50%, #d4edda 50%);
+}
+
+.calendar-table td.half-pm {
+  background: linear-gradient(to top, #f8d7da 50%, #d4edda 50%);
+}
+
+.calendar-table td.custom-booked {
+  background: repeating-linear-gradient(
+        45deg,
+        #f8d7da,
+        #f8d7da 5px,
+        #d4edda 5px,
+        #d4edda 10px
+    );
+}
+
+.calendar-table td.available {
+   background-color: #d4edda;
+}
+
+/* 📏 Отступ между календарём и таблицей */
+.admin-calendar-area {
+  margin-bottom: 40px;
+}
+
+/* 📘 Легенда */
+.calendar-legend {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+  font-size: 14px;
+  margin-bottom: 40px; /* ✅ Отступ перед таблицей */
+}
+
+.legend-item {
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #000;
+  font-weight: 700;
+}
+
+/* 🎨 Цветовые блоки легенды */
+.legend-item.available {
+  background-color: #d4edda; /* зелёный */
+  border: 1px solid #a3d4a5;
+}
+
+.legend-item.half-am {
+  background: linear-gradient(to bottom, #f8d7da 50%, #d4edda 50%);
+  border: 1px solid #ffc107;
+}
+
+.legend-item.half-pm {
+  background: linear-gradient(to top, #f8d7da 50%, #d4edda 50%);
+  border: 1px solid #17a2b8;
+}
+
+.legend-item.booked {
+  background-color: #f8d7da; /* красный */
+  border: 1px solid #f5c6cb;
+}
+
+.legend-item.custom-booked {
+   background: repeating-linear-gradient(
+        45deg,
+        #f8d7da,
+        #f8d7da 5px,
+        #d4edda 5px,
+        #d4edda 10px
+    );
+  border: 1px solid #d6d8db;
+}
+
+/* ========================= */
+/* 🧱 Общая структура страницы */
+body {
+  font-family: var(--font-main);
+  margin: 2em;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h2 {
+  color: #114b5f;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+form {
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+input,
+select {
+  padding: 8px;
+  margin: 6px 8px 6px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+button {
+  background-color: #114b5f;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0d3b4e;
+}
+
+.delete-button {
+    background-color: #dc3545;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.delete-button:hover {
+    background-color: #bd2130;
+}
+
+
+.back-link {
+  display: inline-block;
+  background-color: #888;
+  margin-bottom: 20px;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+}
+
+/* 📋 Таблица резерваций */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #e9ecef;
+  text-align: left;
+}

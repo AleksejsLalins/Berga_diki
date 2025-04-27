@@ -1,0 +1,172 @@
+/* 🍪 Cookie Banner */
+#cookie-banner {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background:  var(--color-primary, #111);
+  color: white;
+  padding: 20px;
+  display: none;
+  z-index: 9999;
+  font-size: 14px;
+}
+
+.cookie-banner-inner {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.cookie-banner-text {
+  flex: 1;
+}
+
+.cookie-banner-text a {
+  color: var(--color-link, #00aaff);
+  text-decoration: underline;
+}
+
+.cookie-banner-actions {
+  flex-shrink: 0;
+}
+
+#cookie-banner button {
+  background-color: var(--color-primary, red);
+  color: var(--color-white);
+  border: none;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 14px;
+  transition: all 0.5s ease;
+  box-shadow: 0 2px 5px rgba(46, 119, 88, 0.3);
+  border: 3px solid var(--color-hover);
+}
+
+#cookie-banner button:hover {
+    background-color: var(--color-hover);
+}
+
+/* ⚙️ Modal Background */
+#cookie-settings-modal {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 10000;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(46, 119, 88, 0.3);
+}
+
+@media (max-width: 600px) {
+  .cookie-banner-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+  }
+
+  .cookie-banner-actions {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  #cookie-banner button {
+    width: 90%;
+    max-width: 300px;
+    text-align: center;
+  }
+}
+
+/* ⚙️ Modal Content */
+.cookie-modal-content {
+  background: white;
+  border-radius: 10px;
+  max-width: 600px;
+  width: 90%;
+  padding: 30px 20px;
+  position: relative;
+  font-size: 15px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
+.cookie-modal-content h2 {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+.cookie-modal-content h3 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.cookie-modal-content p {
+  margin-bottom: 10px;
+}
+
+/* ⚙️ Modal Buttons */
+.cookie-modal-buttons {
+  display: flex;
+  justify-content: center;  /* 👈 Центрируем */
+  margin-top: 30px;
+}
+
+.cookie-modal-buttons button {
+  padding: 10px 20px;
+  background-color: var(--color-primary, red);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-weight: 700;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  box-shadow: 0 2px 5px rgba(46, 119, 88, 0.3);
+}
+
+.cookie-modal-buttons button:hover {
+    background-color: var(--color-hover);
+}
+
+/* Немного отступов снизу */
+.cookie-modal-content {
+  padding: 30px 20px 40px;
+  position: relative;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+
+/* ❌ Close Button */
+#close-cookie-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 22px;
+  line-height: 1;
+  background: none;
+  border: none;
+  color: #555;
+  font-weight: 700;
+  cursor: pointer;
+  z-index: 10;
+}
+
+#close-cookie-modal:hover {
+    background-color: var(--color-hover);
+}
+
+label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+}
