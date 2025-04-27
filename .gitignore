@@ -1,8 +1,27 @@
-/vendor/
-/node_modules/
+# Игнорируем чувствительные файлы
 /admin/config.php
 /admin/db.php
-*.log
+/admin/google-service-account.json
+
+# Игнорируем зависимости
+/vendor/
+/node_modules/
+
+# Игнорируем бэкапы и дампы
 *.sql
-google-service-account.json
+*.bak
+
+# Игнорируем логи
+*.log
+
+# Игнорируем файлы конфигурации окружения
 .env
+
+# Игнорируем директории с бэкапами/загрузками
+/storage/
+/uploads/
+/backups/
+
+# Кеши и временные файлы
+*.cache
+*.tmp
