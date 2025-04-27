@@ -1,6 +1,7 @@
 /vendor/
 /node_modules/
 /admin/config.php
+/admin/db.php
 *.log
 *.sql
 google-service-account.json
